@@ -5,13 +5,13 @@ import AppContainer from "./Code/AppContainer";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img style={{width: '50%', height: 'auto'}} src={logo} alt="logo" />
-        <div>
-          <AppContainer />
-        </div>
-      </header>
+    <div 
+      style={{
+        backgroundColor: '#d7dfee', position: 'fixed', overflow: 'auto', height: '100%', width: '100%',
+        display: 'flex', justifyContent: 'center', alignItems: 'center'
+      }}
+    >
+      <AppContainer/>
     </div>
   );
 }
