@@ -1,6 +1,6 @@
 # ReactJS-Concepts
 
-<p align='center'>
+<p>
   <a href="https://www.instagram.com/kihsa_iar/"><img height="30" src="https://res.cloudinary.com/http-pixlok-com/image/upload/fl_attachment/Pixlok/Images/PNG/Instagram_Splash_Icon_hgqluv.png"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ashik-rai/"><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png"></a>
   <a href="mailto:ashikthulungrai7@gmail.com"><img height="30" src="https://humemarine.com.au/wp-content/uploads/2017/07/gmail-icon.png"></a>
