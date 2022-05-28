@@ -9,6 +9,7 @@
 <h3>
   <p>
     For each concepts of ReactJS we have a dedicated Medium Blog and a dedicated github branch.
+    <br>
     For exmaple, for <b>ReactJS DataBinding Concepts</b>
   </p>
 </h3>
