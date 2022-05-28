@@ -1,7 +1,7 @@
 # ReactJS-Concepts
 This repository is created to help with basics, core and high level concepts of ReactJS.
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png](https://github.com/ReactJS-Concepts/ReactJS-Concepts/blob/DataBinding/reactjs-concepts/src/Resources/Images/LearnReact.gif)
+<img src="https://octodex.github.com/images/yaktocat.png](https://github.com/ReactJS-Concepts/ReactJS-Concepts/blob/DataBinding/reactjs-concepts/src/Resources/Images/LearnReact.gif" />
 
 
 For each concept we have a dedicated Medium Blog and a dedicated github branch.
