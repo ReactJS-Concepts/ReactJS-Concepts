@@ -1,5 +1,11 @@
 # ReactJS-Concepts
-This repository is created to help with basics, core and high level concepts of ReactJS.
+
+<h3>
+  <p>
+    This repository is created for teaching basics, core and high level concepts of ReactJS.
+    
+  </p>
+</h3>
 
 <img src="https://github.com/ReactJS-Concepts/ReactJS-Concepts/blob/DataBinding/reactjs-concepts/src/Resources/Images/LearnReact.gif" />
 
