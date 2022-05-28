@@ -17,5 +17,16 @@
 - [x] We have a dedicated github branch by name <b>DataBinding</b> 
 - [x] We also have a dedicated medium blog explaining the DataBinding concept [link](https://medium.com/@ashikthulungrai7/learning-reactjs-two-way-data-binding-5c5ce1ab9b3d)
 - [x] Along with branch we also have a separate folder which contains the code for that particular ReactJS concept. For <b>DataBinding concept</b> we have a branch name <b>DataBinding</b> and also a folder name <b>DataBinding</b> and inside the folder we will have a file named ReadMe.txt which will have all the pre-requisites if any and also the link of the Medium post explaining the concept.
+<br>
 
+<h1>How to Run the Project</h1>
+- [x] <b>Clone the repository into your PC by runnning git clone command </b>
+- [x] <b>cd inside the directory ReactJS-Concepts\reactjs-concepts and run the command</b>
+- [ ] ```npm start```
+<br>
+a
+
+
+a
+<h3>If you need any help with respect to</h3>
 <img src="https://github.com/ReactJS-Concepts/ReactJS-Concepts/blob/DataBinding/reactjs-concepts/src/Resources/Images/LearnReact.gif" />
