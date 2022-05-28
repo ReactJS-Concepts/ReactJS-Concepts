@@ -1,7 +1,15 @@
 # ReactJS-Concepts
 
+<p align='center'>
+  <a href="https://www.instagram.com/kihsa_iar/"><img height="30" src="https://res.cloudinary.com/http-pixlok-com/image/upload/fl_attachment/Pixlok/Images/PNG/Instagram_Splash_Icon_hgqluv.png"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ashik-rai/"><img height="30" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png"></a>
+  <a href="mailto:ashikthulungrai7@gmail.com"><img height="30" src="https://humemarine.com.au/wp-content/uploads/2017/07/gmail-icon.png"></a>
+
+</p>
+
 <h3>
   <p>
+    Hey there 👋, <br>
     This repository is created for teaching basics, core and high level concepts of ReactJS.
   </p>
 </h3>
@@ -20,15 +28,10 @@
 <br>
 
 <h1>How to Run the Project</h1>
+
 - [x] Clone the repository into your PC by runnning <b>git clone command </b>
 - [x] cd inside the directory <b>ReactJS-Concepts\reactjs-concepts and run the command</b>
-```
-npm start
-```
+
 <br>
-a
-
-
-a
 <h3>If you need any help with respect to</h3>
-<img src="https://github.com/ReactJS-Concepts/ReactJS-Concepts/blob/DataBinding/reactjs-concepts/src/Resources/Images/LearnReact.gif" />
+<!-- <img src="https://github.com/ReactJS-Concepts/ReactJS-Concepts/blob/DataBinding/reactjs-concepts/src/Resources/Images/LearnReact.gif" /> -->
