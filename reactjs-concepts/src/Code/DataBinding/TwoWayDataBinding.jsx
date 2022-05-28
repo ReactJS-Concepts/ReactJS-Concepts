@@ -17,18 +17,12 @@ export function TwoWayDataBinding (props){
     }
 
     function AddNewItem(event){
-        const val= event.target.value
         if (event.charCode === 13)
         {
             var temp= data
             temp.push([newItem,true])
             setData(temp)
             setNewItem("");
-        }
-        else if (val){
-            setNewItem(val);
-        }else{
-            setNewItem("")
         }
         
     }
@@ -71,7 +65,7 @@ export function TwoWayDataBinding (props){
                 </div>
             </Grid>
             <Grid container item xs={12} style={{padding: '3%'}}>
-                <TextField id="input_checkbox" style={{width: '100%'}} label="Add New Item" variant="outlined" value={newItem}  
+                <TextField id="input_checkbox" style={{width: '100%'}} label="Add New Item" variant="outlined" value={newItem}
                             onKeyPress={(event) => AddNewItem(event) } helperText={newItem.length > 0 ? "Press Enter to Add" : ""} 
                             onChange={(event) => {setNewItem(event.target.value)}}
                 />

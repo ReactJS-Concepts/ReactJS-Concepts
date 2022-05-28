@@ -1,4 +1,4 @@
-import logo from './Resources/Images/LearnReact.gif';
+// import logo from './Resources/Images/LearnReact.gif';
 import './App.css';
 
 import AppContainer from "./Code/AppContainer";
