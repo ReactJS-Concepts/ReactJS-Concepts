@@ -20,9 +20,11 @@
 <br>
 
 <h1>How to Run the Project</h1>
-- [x] <b>Clone the repository into your PC by runnning git clone command </b>
-- [x] <b>cd inside the directory ReactJS-Concepts\reactjs-concepts and run the command</b>
-- [ ] ```npm start```
+- [x] Clone the repository into your PC by runnning <b>git clone command </b>
+- [x] cd inside the directory <b>ReactJS-Concepts\reactjs-concepts and run the command</b>
+```
+npm start
+```
 <br>
 a
 
