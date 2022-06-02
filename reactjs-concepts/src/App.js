@@ -1,7 +1,8 @@
-// import logo from './Resources/Images/LearnReact.gif';
+
 import './App.css';
 
-import AppContainer from "./Code/AppContainer";
+import SideNav from "./Code/Extra_Components/SideNav";
+import {BrowserRouter as Router} from "react-router-dom";
 
 function App() {
   return (
@@ -11,7 +12,9 @@ function App() {
         display: 'flex', justifyContent: 'center', alignItems: 'center'
       }}
     >
-      <AppContainer/>
+      <Router>
+        <SideNav />
+      </Router>
     </div>
   );
 }

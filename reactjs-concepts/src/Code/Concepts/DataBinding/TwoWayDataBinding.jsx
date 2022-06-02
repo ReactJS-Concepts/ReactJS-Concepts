@@ -8,11 +8,13 @@ export function TwoWayDataBinding (props){
    
     function change_checkbox_data(index){
         const temp= [...data]
-        temp.map((item, i) => {
+        
+        for (var i= 0; i < temp.length; i++){
             if (index === i){
                 temp[i][1]= temp[i][1] ? false : true;
+                break
             }
-        })
+        }
         setData(temp);
     }
 
