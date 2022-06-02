@@ -24,9 +24,12 @@
   </p>
 </h3>
 
-- [x] We have a dedicated github branch by name <b>DataBinding</b> 
+- [x] We have a dedicated github branch by name <b>DataBinding</b> [link](https://github.com/ReactJS-Concepts/ReactJS-Concepts/tree/DataBinding)
+![image](https://user-images.githubusercontent.com/41672214/171676176-68490d54-f6d9-4092-95ee-85c64899f954.png)
 - [x] We also have a dedicated medium blog explaining the DataBinding concept [link](https://medium.com/@ashikthulungrai7/learning-reactjs-two-way-data-binding-5c5ce1ab9b3d)
+![image](https://user-images.githubusercontent.com/41672214/171676068-7f872eb4-234b-4f9a-8aa1-b0bcc99e40d9.png)
 - [x] Along with branch we also have a separate folder which contains the code for that particular ReactJS concept. For <b>DataBinding concept</b> we have a branch name <b>DataBinding</b> and also a folder name <b>DataBinding</b> and inside the folder we will have a file named ReadMe.txt which will have all the pre-requisites if any and also the link of the Medium post explaining the concept.
+<br>
 
 <h1>How to Run the Project</h1>
 
