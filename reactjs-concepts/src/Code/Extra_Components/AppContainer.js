@@ -1,5 +1,5 @@
 
-import { DataBindingContainer } from "./DataBinding/DataBinding";
+import { DataBindingContainer } from "../Concepts/DataBinding/DataBinding";
 import Grid from "@mui/material/Grid";
 import { Box } from "@mui/system";
 
